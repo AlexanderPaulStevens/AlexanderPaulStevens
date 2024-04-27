@@ -7,3 +7,5 @@ My name is Alexander Paul M.J. Stevens and I am a fourth year PhD researcher at 
 Here are some ideas to get you started:
 - 🔭 I’m currently working around the explainability and robustness of predictive models used for outcome prediction of process data
 
+[![Alexanders's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderPaulStevens)](https://github.com/AlexanderPaulStevens/github-readme-stats)
+
