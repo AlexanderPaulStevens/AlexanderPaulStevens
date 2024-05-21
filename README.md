@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Alexander Paul M.J. Stevens and I am a fourth year PhD researcher at the Research Centre for Information Systems Engineering (KU Leuven). 
+My name is Alexander Paul Stevens and I am a last year PhD researcher at the Research Centre for Information Systems Engineering (KU Leuven). 
 
-- 🔭 I’m currently working around the explainability and robustness of predictive models used for outcome prediction of process data
+- 🔭 I’m currently working around the explainability and robustness of predictive models used for outcome prediction of process data.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderPaulStevens)](https://github.com/anuraghazra/github-readme-stats)
 
